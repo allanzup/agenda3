@@ -10,7 +10,7 @@ O aplicativo  pertencente a Zup tem como objetivo ser um modulo de agenda que po
 Projeto em desenvolvimento
 
 ## LINK FIGMA DO PROJETO:
-<a href="https://www.figma.com/file/1aHLQEI1eDPqVoboFqTVoD/Agenda?node-id=0%3A1" target="_blank">ACESSE PROTÓTIPO NAVEGAVÉL PLATAFORMA FIGMA</a>
+<a href="https://www.figma.com/proto/1aHLQEI1eDPqVoboFqTVoD/Agenda?node-id=3%3A2&scaling=min-zoom&page-id=0%3A1&starting-point-node-id=3%3A2" target="_blank">ACESSE PROTÓTIPO NAVEGAVÉL PLATAFORMA FIGMA</a>
 
 
 ## FUNCIONALIDADES E DEMONSTRAÇÃO DA APLICAÇÃO:
